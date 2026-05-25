@@ -257,4 +257,5 @@ def handle_callback(call):
 
 if __name__ == "__main__":
     print("Бот запущен!")
+    bot.remove_webhook()
     bot.infinity_polling()

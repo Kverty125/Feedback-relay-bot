@@ -4,7 +4,7 @@ import json
 import os
 from datetime import datetime
 
-TOKEN = "8615174100:AAEi-nmT52413wIRpL8b2sPLZ2oEQ12cyeo"
+TOKEN = "8615174100:AAEQFknopQCuWXr8Ktdp5JSgeWpq4hVZLWE"
 bot = telebot.TeleBot(TOKEN)
 
 ADMIN_IDS = set()
